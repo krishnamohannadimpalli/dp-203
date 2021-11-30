@@ -1,0 +1,12 @@
+{
+	"name": "datafactory7000",
+	"properties": {
+		"globalParameters": {
+			"environment": {
+				"type": "string",
+				"value": "test"
+			}
+		}
+	},
+	"location": "northeurope"
+}
